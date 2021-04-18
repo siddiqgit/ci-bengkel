@@ -26,7 +26,7 @@
                 <div class="sidebar-header">
                     <div class="d-flex justify-content-between">
                         <div class="logo">
-                            <a href="<?php echo base_url() ?>"><img src="assets/images/logo/okk.png" alt="Logo" srcset=""></a>
+                            <a href="<?php echo base_url() ?>home"><img src="assets/images/logo/okk.png" alt="Logo" srcset=""></a>
                         </div>
                         <div class="toggler">
                             <a href="#" class="sidebar-hide d-xl-none d-block"><i class="bi bi-x bi-middle"></i></a>
@@ -38,7 +38,7 @@
                         <li class="sidebar-title">Menu</li>
 
                         <li class="sidebar-item active ">
-                            <a href="<?php echo base_url() ?>" class='sidebar-link'>
+                            <a href="<?php echo base_url() ?>home" class='sidebar-link'>
                                 <i class="bi bi-grid-fill"></i>
                                 <span>Dashboard</span>
                             </a>
@@ -95,7 +95,7 @@
                         <li class="sidebar-title">Settings</li>
 
                         <li class="sidebar-item">
-                            <a href="<?php echo base_url() ?>ganti-password" class='sidebar-link'>
+                            <a href="<?php echo base_url() ?>gantipass" class='sidebar-link'>
                                 <i class="bi bi-lock-fill"></i>
                                 <span>Ganti Password</span>
                             </a>
