@@ -47,7 +47,7 @@
                         <li class="sidebar-item  ">
                             <a href="<?php echo base_url() ?>laporan" class='sidebar-link'>
                                 <i class="bi bi-printer-fill"></i>
-                                <span>Print Laporan</span>
+                                <span>Print Laporan</span>  
                             </a>
                         </li>
 

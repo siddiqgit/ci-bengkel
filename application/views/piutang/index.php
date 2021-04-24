@@ -46,7 +46,7 @@
                                         <tbody>
                                             <tr>
                                                 <td class="text-bold-500 text-center">1</td>
-                                                <td class="text-center">H01</td>
+                                                <td class="text-center">P01</td>
                                                 <td class="text-bold-500">20-03-2021</td>
                                                 <td class="text-bold-500">PT. GEMILANG JAYA ABADI</td>
                                                 <td class="text-bold-500">Rp. 100,000,000</td>
